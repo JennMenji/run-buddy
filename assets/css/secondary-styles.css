@@ -18,7 +18,7 @@
 
 .secondary-content {
     width: 80%;
-    margin: 10px auto;
+    margin: 0px auto;
     color: #024e76;
 }
 
@@ -34,7 +34,7 @@
 }
 
 .secondary-content ul {
-    margin: 15px 20px 15px 20px;
+    margin: 15px 20px;
 }
 
 .secondary-content li {
