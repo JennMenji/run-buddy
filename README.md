@@ -12,3 +12,5 @@ https://jennmenji.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Jenn Menjivar
+
+### &copy; Run Buddy, Inc
